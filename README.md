@@ -44,6 +44,7 @@ squid init-env \
 Open a new terminal window and navigate to the `frontend` directory. You should now have two terminal windows open: one in which you will run the local backend server, and one in which you will run the frontend. Complete the environment setup with the following steps, ensuring you're in the `frontend` directory:
 
 ```bash
+npm install
 npm run setup-env
 ```
 
